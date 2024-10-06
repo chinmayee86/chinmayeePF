@@ -1,0 +1,55 @@
+/* experience.css */
+.experience-section {
+    padding: 10px 50px; 
+    margin-top: 100px;
+    position: relative;
+    padding-left: 10%;
+}
+.vertical-timeline::before {
+    background: #706e6e !important;/* Adjust the color as needed */
+  }
+  .vertical-timeline {
+    color: black;
+  }
+  .vertical-timeline--animate{
+    color: black;
+  }
+  .vertical-timeline--two-columns{
+    color: black;
+  }
+.section-title {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 5em;
+    font-weight: bold;
+}
+.vertical-timeline-element-icon.bounce-in {
+    background: #42bcbc !important; /* Background color */
+    /* color: rgb(255, 255, 255);    
+    padding: 5px 10px;           
+    border-radius: 5px;          */
+  }
+
+.experience-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.experience-card:hover {
+    transform: scale(1.05);
+}
+
+.experience-card h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.experience-card h4 {
+    color: #555;
+}
+
+.experience-card p {
+    color: #666;
+}

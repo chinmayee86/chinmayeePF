@@ -1,0 +1,89 @@
+{
+    "basics": {
+        "name": "Chinmayee Pendyala",
+        "label": "Full Stack Developer",
+        "email": "chinmayeep141@gmail.com",
+        "phone": "(913) 762-3029",
+        "picture": "",
+        "x_title": "Hello, I'm",
+        "job1": "Full Stack",
+        "job2": "Developer",
+        "description": "Hello! I'm Chinmayee! Your web development enthusiast. Always down for something new and challenging! Just like chinmayeedown, I'm here to help you create beautifully formatted websites.",
+        "summary": "based in California, USA.",
+        "keywords": "personal,website,portfolio,template,kit,chinmayee,tan,taniyow,webdev,web,developer,California,USA,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,chinmayeedown",
+        "url": "",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "California",
+            "country": "USA",
+            "countryCode": "PH",
+            "region": "Pampanga"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "chinmayeep141@gmail.com",
+                "url": "mailto:chinmayeep141@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Chinmayee",
+                "url": "https://www.linkedin.com/in/chinmayee0403/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "chinmayee",
+                "url": "https://github.com/chinmayee86",
+                "x_icon": "fab fa-github"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Infosys",
+            "position": "Digital Specialist Engineer",
+            "website": "http://infosys.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        },
+        {
+            "company": "Sri Maharshi Consultancies",
+            "position": "Web Developer",
+            "website": "https://srimaharshiconsultancy.com/",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+   
+    "education": [
+        {
+            "institution": "University of Central Missouri",
+            "area": "Computer Science",
+            "studyType": "Masters",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "3.77",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
