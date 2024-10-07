@@ -1,16 +1,16 @@
 {
-    "name": "chinmayee Tan | California, USA",
-    "short_name": "taniyow.vercel.app",
+    "name": "chinmayee Pendyala | California, USA",
+    "short_name": "chinmayee",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "/logo.ico",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "icon/ico"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "/logo.ico",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "icon/ico"
         }
     ],
     "start_url": ".",

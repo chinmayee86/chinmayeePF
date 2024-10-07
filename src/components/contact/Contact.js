@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Typography, Grid } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import './Contact.css';
-import { SocialIcons } from "../content/SocialIcons";
 import emailGif from '../../assets/email-unscreen.gif';
 
 const useStyles = makeStyles((theme) => ({
@@ -62,9 +61,6 @@ export const Contact = () => {
             <a href={`mailto:${email}`} className={classes.emailLink}>
               {email}
             </a>
-            <div style={{ marginTop: '1rem' }}>
-              <SocialIcons />
-            </div>
           </Grid>
           <Grid item xs={12} sm={6} className={classes.mailImageContainer}> {/* Right side for mail image */}
             <img src={emailGif} alt="Mail Animation" className={classes.mailImage} />

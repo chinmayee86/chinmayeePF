@@ -1,9 +1,9 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://chinmayeep.netlify.app/",
   "description": "A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!",
-  "repository": "https://github.com/chinmayee86/chinmayeep.github.io",
+  "repository": "https://github.com/chinmayee86/chinmayeePF",
   "author": "Chinmayee Pendyala <chinmayeependyala@gmail.com>",
   "license": "MIT",
   "dependencies": {

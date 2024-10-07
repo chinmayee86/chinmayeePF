@@ -68,10 +68,16 @@
     margin-right: 4em;
     flex-direction: column;
   }
+  .project.left{
+    flex-direction: column;
+  }
+  .project.right{
+    flex-direction: column;
+  }
   .__img_wrapper {
-    width: 340px;
+    width: 100%;
   }
   .__content_wrapper {
-    width: 70%;
+    width: 100%;
   }
 }
